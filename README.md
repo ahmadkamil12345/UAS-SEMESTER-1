@@ -234,22 +234,22 @@ while True:
 
 <p>Tambah data<p>
 
-![103](ss/tambah.png)
+![img](ss/tambah.png)
 
 <p>Ubah data<p>
 
-![104](ss/ubah.png)
+![img](ss/ubah.png)
 
 <p>Cari data<p>
 
-![105](ss/cari.png)
+![img](ss/cari.png)
 
 <p>Hapus data<p>
 
-![107](ss/hapus.png)
+![img](ss/hapus.png)
 
 <p>Keluar data<p>
 
-![106](ss/keluar.png)
+![img](ss/keluar.png)
 
 ## TERIMA KASIH
