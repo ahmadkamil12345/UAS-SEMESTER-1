@@ -1,26 +1,11 @@
 # UAS_Semester1
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <table border="1">
-        <tr>
-            <th> Nama</th>
-            <th>NIM</th>
-            <th>Kelas</th>
-        </tr>
-        <tr>
-            <td>Ahmad Kamil Maulana</td>
-            <td>312110010</td>
-            <td>TI.21.C5</td>
-        </tr>
-    </table>
-</body>
-</html>
+- # ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) **PROGRAM DATA MAHASISWA PYTHON**
+
+![nama](https://img.shields.io/badge/nama-Ahmad%20Kamil%20Maulana-greend.svg)
+![nim](https://img.shields.io/badge/nim-312110010-orange.svg)
+![kelas](https://img.shields.io/badge/kelas-TI.21.C5-blue.svg)
+
 
 ## SOAL UJIAN
 
